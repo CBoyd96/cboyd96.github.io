@@ -4,4 +4,4 @@ Final Project for CIS224
 
 Website:
 
-https://cboyd96.github.io/
+https://cboyd96.github.io/index.html
